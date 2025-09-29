@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/e4ddaba55398cd06fe0e1299f276551c_probset_3.pdf
 file_size: 120661
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
