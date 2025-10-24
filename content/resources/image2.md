@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/570ec0d92dbe234da0a1439ce0339d9b_image2.jpg
 file_size: 67183
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

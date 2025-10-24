@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-051-structural-engineering-design-fall-2003/43fa6c96cac9b2f4ce03811ef4b401f0_s1_02_model.pdf
 file_size: 3522534
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

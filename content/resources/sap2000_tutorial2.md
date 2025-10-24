@@ -5,8 +5,6 @@ description: This tutorial provides the basic steps of performing a frame analys
 file: /courses/1-051-structural-engineering-design-fall-2003/14f978b928ef978bbc955ef93c0b35b7_SAP2000_Tutorial2.pdf
 file_size: 495413
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
